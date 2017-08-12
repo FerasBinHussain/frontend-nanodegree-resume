@@ -126,7 +126,7 @@ var projects = {
 var education = {
   schools: [
     {
-      'name': 'KSU - King Saud univectiy',
+      'name': 'KSU -King Saud univectiy',
       'location': 'almuzahmyah, Riyadh',
       'degree': 'Bachelor of Computer, Data Science',
       'majors': ['Data Science'],
