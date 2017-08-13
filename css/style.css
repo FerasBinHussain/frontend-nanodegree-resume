@@ -25,9 +25,9 @@ h6 {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 41px;
   color: #f5a623;
-  line-height: 48px;
+  line-height: 49px;
   display: inline;
 }
 
@@ -72,7 +72,7 @@ h5 {
 
 .location-text {
   font-style: italic;
-  font-size: 14px;
+  font-size: 15px;
   color: #999;
   line-height: 16px;
   float: right;
